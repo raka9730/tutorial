@@ -54,6 +54,8 @@ public class Emerald{
                   final_link=ar[kj].substring(ar[kj].indexOf("10.")+3,ar[kj].indexOf("\">"));
                   
                     System.out.println(final_link);
+                    
+                    System.out.println(sample);
       
 
 ////***************************************************************************************************    
