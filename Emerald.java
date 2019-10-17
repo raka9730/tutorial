@@ -58,6 +58,7 @@ public class Emerald{
                     System.out.println(sample);
       
 
+                    System.out.println(sample);
 ////***************************************************************************************************    
 //                  
                 try{
